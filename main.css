@@ -1,0 +1,21 @@
+h1{
+	color: #f02e22;
+	text-align: center;
+}
+
+img{
+	border: 5 px solid red;
+}	
+	a [href="https://www.britannica.com/place/Roman-Republic"] { 
+ 		padding: 5 px;
+}
+	a [ href="https://www.britannica.com/place/Roman-Empire/Height-and-decline-of-imperial-Rome"] {  
+		display: inline-block;
+		width: 600 px;
+		height: 400 px;
+		background-image: url ("Rome.jpg");
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center;		
+}
+	
